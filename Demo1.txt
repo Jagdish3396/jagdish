@@ -1,0 +1,9 @@
+public class a{
+
+public void show()
+{
+sop("this is demo class")
+
+}
+
+}
